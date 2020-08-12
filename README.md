@@ -8,6 +8,7 @@ I'm Raven 🦅, an entrepre-nerd and software engineer - always on lookout to cr
 - Nativescript / Xamarin 📱, Angular 🚀  and Node / NestJs 🖥️
 - Devops in Google Cloud Engine, and mostly using Docker / Docker-Compose / GKE ☁️
 - Work with and develop Apps and Websites used by thousands of active users. 🕸️
+- I use Ruby 💎 and Python 🐍, for fun and automation
 - A Programming [Vlog](https://www.youtube.com/channel/UCWjOAD7q-sWi-vM803PZFHw) in my local dialect 🎬
 - Help people about at [StackOverflow](https://stackoverflow.com/users/689601/raven) (Mostly Angular, Typescript, NodeJs, Javascript or Nativescript related stuff) 💬
 - More often than not participate in organizing Developer Meetups, Talks, and Developer Community Events. 📣
@@ -16,7 +17,6 @@ I'm Raven 🦅, an entrepre-nerd and software engineer - always on lookout to cr
 🌱 Currently learning:
 - Kubernetes
 - GPT-3 Open AI (And Deep Learning in General) 
-
 
 :heart: Tools I really enjoy using:
 - [BoostNote](https://boostnote.io/)
