@@ -56,6 +56,8 @@ I've spent years navigating the messy, unstructured, bleeding-edge side of tech.
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
 ![Daily.Dev](https://img.shields.io/badge/Daily.Dev-CE3DF3?style=flat-square&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-1a1a2e?style=flat-square&logo=claws-mail&logoColor=58A6FF)
+![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)
 
 ---
 
