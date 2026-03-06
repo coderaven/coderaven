@@ -19,8 +19,6 @@ I'm **Raven** — CTO, software engineer, and builder obsessed with AI-first sys
 
 I've spent years navigating the messy, unstructured, bleeding-edge side of tech. These days, my world revolves around **agentic AI** — building systems that think, act, and iterate without handholding.
 
-> *"Build things even before knowing how to build them."* — my current operating principle
-
 ---
 
 ### 🚀 What I'm Working On
