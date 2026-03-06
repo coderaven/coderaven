@@ -24,7 +24,7 @@ I've spent years navigating the messy, unstructured, bleeding-edge side of tech.
 ### 🚀 What I'm Working On
 
 - 🤖 **[Aria](https://symph.co)** — AI-powered engineering assistant at Symph; our internal engine for 10x team velocity
-- 🎯 **[HireAI](https://hire.humanlike.bot)** — AI-first hiring platform that screens, scores, and surfaces the right candidates
+- 🎯 **[HireAI](https://hire.humanlike.bot)** — The AI Employee you'll never want to fire; one agent, every role — sales, content, admin, dev, and more, connected to your entire stack
 - 🦅 **RavenClaw** — my personal AI executive assistant (agentic, memory-aware, always on)
 - 🏗️ Building and advising **AI-native startups** in the Philippines
 
